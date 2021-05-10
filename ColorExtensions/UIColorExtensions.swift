@@ -1,6 +1,6 @@
 //
 //  UIColorExtensions.swift
-//  FlexSlider
+//  ColorExtensions
 //
 
 import UIKit
