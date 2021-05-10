@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ColorExtensions'
-  s.version          = '1.0'
+  s.version          = '1.0.1'
   s.license          = 'MIT'
   s.summary          = 'Extensions for UIColor and NSColor'
   s.homepage         = 'https://github.com/mjrehder/ColorExtensions.git'

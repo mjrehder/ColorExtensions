@@ -11,7 +11,7 @@ import UIKit
     typealias NColor = UIColor
 #endif
 
-extension NColor {
+public extension NColor {
         
     //  From https://stackoverflow.com/a/42381754
     func lighter(by percentage: CGFloat = 30.0) -> UIColor {
